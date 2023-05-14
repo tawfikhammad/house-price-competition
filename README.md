@@ -96,18 +96,20 @@ Here's a brief version of what you'll find in the data description file.
 
 ## outline
 1. import libariers and data
+
 2. data review & understanding data
+
 3. clean data
 * handle with nulls
 
 4. explore data
-4.1. explore numerical data
-* handle with outliers
-* handle with skewness
-4.2. explore descrete data
-4.3. explore categorical data
-* label encoding
-* hot label encoding
+* 4.1. explore numerical data
+   * handle with outliers
+   * handle with skewness
+* 4.2. explore descrete data
+* 4.3. explore categorical data
+   * label encoding
+   * hot label encoding
 5. bivariate analysis
 6. modeling
 * use :
